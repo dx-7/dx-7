@@ -10,7 +10,7 @@ def __info__(self):
     self.age = ('undefined')
 
 def  __social__(self):
-    self.thm = "https://feds.lol"
+    self.thm = "https://slat.cc"
     self.htb = "https://luna-scripts.com"
     self.dsc = ".dxm#0000"
 
